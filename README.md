@@ -74,20 +74,20 @@ Through this assignment, I improved my understanding of:
 
 ## Screenshots
 
-"Task creation"
+**Task creation**
 <img width="1151" height="529" alt="image" src="https://github.com/user-attachments/assets/01e37c92-da17-41dd-aafa-4465fee86617" />
 
-"Task list view"
+**Task list view**
 <img width="1115" height="630" alt="image" src="https://github.com/user-attachments/assets/dc2d9a49-5ae6-4c4c-957c-f0f7aa65b207" />
 
-"Completed vs Pending tasks"
+**Completed vs Pending tasks**
 <img width="1111" height="530" alt="image" src="https://github.com/user-attachments/assets/9a7fc2fe-6603-4842-8ece-902d6f7e3c72" />
 <img width="1112" height="548" alt="image" src="https://github.com/user-attachments/assets/548c7021-8efb-4c4e-b507-596e1687a683" />
 
 
-**Shivam Kumar Kesharwani**
-**B.Tech CSE (2022–2026)**
-**Frontend & Full-Stack Developer**
+# Shivam Kumar Kesharwani
+## B.Tech CSE (2022–2026)
+## Frontend & Full-Stack Developer
 
 
 
