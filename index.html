@@ -1,0 +1,59 @@
+<!--
+  Task Tracker Application
+  Responsive UI for Mobile, Tablet, and Desktop
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Task Tracker</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="stylesheet" href="style.css" />
+  <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css"
+    rel="stylesheet"
+  />
+</head>
+<body>
+
+  <div class="container">
+
+    <div class="card">
+      <h3>Add New Task</h3>
+      <div class="add-task">
+        <input type="text" id="taskInput" placeholder="Enter your task here..." />
+        <button onclick="addTask()">+ Add Task</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="tasks-header">
+        <h3>Your Tasks</h3>
+        <span id="totalTasks">Total: 0 tasks</span>
+      </div>
+
+      <div class="filters">
+        <button class="active" onclick="setFilter('all')">All</button>
+        <button onclick="setFilter('pending')">Pending</button>
+        <button onclick="setFilter('completed')">Completed</button>
+        <input type="date" id="dateFilter" onchange="renderTasks()" />
+      </div>
+
+      <div class="today">
+        <strong>Today</strong>
+        <div class="status">
+          <span class="completed" id="completedCount">0 completed</span>
+          <span class="pending" id="pendingCount">0 pending</span>
+        </div>
+      </div>
+
+      <div id="taskList"></div>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
