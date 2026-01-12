@@ -66,8 +66,8 @@ Task-Tracker/
 
 ## Key Highlights
 
-. Clean and readable code structure
-. No unnecessary logic or complexity
-. Responsive and user-friendly UI
-. Follows real-world frontend best practices
-. Easily extendable for backend integration
+1. Clean and readable code structure
+2. No unnecessary logic or complexity
+3. Responsive and user-friendly UI
+4. Follows real-world frontend best practices
+5. Easily extendable for backend integration
