@@ -63,3 +63,11 @@ Task-Tracker/
 3. Open index.html in any modern web browser
    (or use Live Server in VS Code)
 4. Start adding and managing tasks
+
+## Key Highlights
+
+. Clean and readable code structure
+. No unnecessary logic or complexity
+. Responsive and user-friendly UI
+. Follows real-world frontend best practices
+. Easily extendable for backend integration
